@@ -3,13 +3,13 @@
 ## Tech Stack
 yuriportfolio/AkuBlog is built on the following main stack:
 
-- [Google Analytics](http://www.google.com/analytics) – General Analytics
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Prettier](https://prettier.io/) – Code Review
+- [Google Analytics](http://www.google.com/analytics) – General Analytics
 - [Netlify](https://www.netlify.com/) – Static Web Hosting
 - [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
-- [Prettier](https://prettier.io/) – Code Review
 - [Netlify CMS](https://www.netlifycms.org/) – Self-Hosted Blogging / CMS
 - [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
@@ -21,13 +21,13 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 yuriportfolio/AkuBlog is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg' alt='Google Analytics'/> [Google Analytics](http://www.google.com/analytics) – General Analytics
 - <img width='25' height='25' src='https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg' alt='Netlify'/> [Netlify](https://www.netlify.com/) – Static Web Hosting
 - <img width='25' height='25' src='https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png' alt='Gatsby'/> [Gatsby](https://www.gatsbyjs.org) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/7613/YIgPht1s_400x400.jpg' alt='Netlify CMS'/> [Netlify CMS](https://www.netlifycms.org/) – Self-Hosted Blogging / CMS
 - <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
 
@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [yuriportfolio/AkuBlog](https://github.com/yuriportfolio/AkuBlog)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|01/05/24 <br/>Report generated|
+|19<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
